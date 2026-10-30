@@ -73,7 +73,6 @@
     "react-query": "^3.39.3",
     "react-request": "3.2.0"
   },
-  "resolutions": {},
   "devDependencies": {
     "@babel/core": "^7.19.3",
     "@babel/plugin-proposal-export-namespace-from": "^7.18.9"
